@@ -3,7 +3,7 @@ Type in a github username and get some basic information on a profile. Boxes rep
 
 Setup
 Clone this repository and cd into the frontend.
-Run `npm instal`l or `yarn install` to install your dependencies.
+Run `npm install` or `yarn install` to install your dependencies.
 Run `npm start` or `yarn start` and the project will be running on localhost:3000.
 
 Built With
