@@ -11,7 +11,7 @@ class RepoContainer extends Component {
   }
 
   render = () => {
-    const state = this.state
+    const { state } = this
     return (
       <div className="repoContainer">
         {state.repoDivs}
